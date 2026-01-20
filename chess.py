@@ -1,6 +1,6 @@
 import turtle
 turtle.tracer(0,0)
-import time
+import time 
 
 s = turtle.Screen()
 s.title('chess')
